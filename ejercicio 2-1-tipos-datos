@@ -1,0 +1,28 @@
+public class TiposDeDatos {
+    
+    public static void main(String[] args) {    // Metodo main 
+
+        // tipos de datos: enteros   int, long, double, boolean string
+
+        
+        
+        int  variable2 = 600;
+        double variable3 = 3.14d;
+        long variable4 = 100;
+        boolean variable5 = false;
+        boolean variable6 = true;
+        String  variable7 = "hola soy Hernando...";
+
+
+
+        
+        System.out.println(variable2);
+        System.out.println(variable3);
+        System.out.println(variable4);
+        System.out.println(variable5);
+        System.out.println(variable6);
+        System.out.println(variable7);
+
+
+    }
+}
